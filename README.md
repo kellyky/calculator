@@ -1,5 +1,6 @@
 # calculator
 By Kelly Young
+
 A simple web calculator, as an exercise from the Epicodus "Learn to Program" series. 
 
 ## Technologies Used
